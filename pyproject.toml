@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "calcutils_moise" # IMPORTANT: Replace with a unique name!
-version = "0.1.0"
+version = "0.2.0"
 description = "A simple student tutorial math utility package"
 readme = "README.md"
 authors = [
